@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\hoftn\Desktop\Studia\Semestr_4\laby_grafika\asteroidy\main.cpp(123,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\hoftn\Desktop\Studia\Semestr_4\laby_grafika\asteroidy\main.cpp(126,72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\hoftn\Desktop\Studia\Semestr_4\laby_grafika\asteroidy\main.cpp(129,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\hoftn\Desktop\Studia\Semestr_4\laby_grafika\asteroidy\main.cpp(132,63): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\hoftn\Desktop\Studia\Semestr_4\laby_grafika\asteroidy\main.cpp(137,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\hoftn\Desktop\Studia\Semestr_4\laby_grafika\asteroidy\main.cpp(137,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\hoftn\Desktop\Studia\Semestr_4\laby_grafika\asteroidy\main.cpp(442,30): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  laby1.vcxproj -> C:\Users\hoftn\Desktop\Studia\Semestr_4\laby_grafika\laby1\x64\Debug\laby1.exe
