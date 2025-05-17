@@ -8,4 +8,4 @@ Wprowadzone zmiany:
  - Dodanie nowego naboju którym są znaczki Subaru
 
 Gameplay:
-![laby1_Gameplay](https://github.com/user-attachments/assets/b52439b6-ec88-42f9-8f7e-e728071945f2)
+![laby1_Gameplay](https://github.com/user-attachments/assets/4d52fae1-9c0c-401a-9593-69e5111c430e)
