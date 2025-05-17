@@ -513,7 +513,7 @@ public:
 			{
 				if (player->IsAlive() && IsKeyDown(KEY_SPACE)) {
 					shotTimer += dt;
-					float interval = 1.f / player->GetFireRate(currentWeapon);
+					float interval = 1.5f / player->GetFireRate(currentWeapon);
 					float projSpeed = player->GetSpacing(currentWeapon) * player->GetFireRate(currentWeapon);
 
 					while (shotTimer >= interval) {
